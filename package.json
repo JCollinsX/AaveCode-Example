@@ -1,13 +1,6 @@
 {
-  "name": "aave-web3js-code-examples",
   "description": "Aave code examples",
   "version": "1.0.0",
-  "license": "AGPLv3",
-  "author": "Aave",
-  "contributors": [
-    "David Truong <david@aave.com>"
-  ],
-  "repository": "https://github.com/aave/AaveCodeExamples",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
